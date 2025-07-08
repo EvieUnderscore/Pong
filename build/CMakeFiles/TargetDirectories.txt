@@ -1,0 +1,3 @@
+/mnt/c/PSP/Pong/build/CMakeFiles/Pong.dir
+/mnt/c/PSP/Pong/build/CMakeFiles/edit_cache.dir
+/mnt/c/PSP/Pong/build/CMakeFiles/rebuild_cache.dir

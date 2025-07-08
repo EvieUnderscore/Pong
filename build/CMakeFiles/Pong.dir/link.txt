@@ -1,0 +1,1 @@
+/home/evie/pspdev/bin/psp-g++ -I/home/evie/pspdev/psp/include -I/home/evie/pspdev/psp/sdk/include -DPSP -L/home/evie/pspdev/lib -L/home/evie/pspdev/psp/lib -L/home/evie/pspdev/psp/sdk/lib -Wl,-zmax-page-size=128 CMakeFiles/Pong.dir/src/main.cpp.obj -o Pong  -lpspdebug -lpspdisplay -lpspge 
